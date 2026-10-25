@@ -42,4 +42,5 @@ streamlit run app.py
 
 ## Author
 
-**Your Name** - [GitHub](
+**Your Name** - [GitHub](https://github.com/Hajra-Javed-Awan)
+
